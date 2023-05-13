@@ -8,4 +8,4 @@ Sample Image HOG Feature Descriptor Visualization:
 
 ![Sample image](./flash_histograms.png)
 
-It can be observed the feature descriptor was somewhat effective in locating features in the image, such as the sanitizer bottle or the monitor arm. 
+It can be observed the feature descriptor was somewhat effective in locating features in the image, such as the sanitizer bottle or the monitor arm. Unfortunately, due to the image / screem resolution, you might have to zoom in to see the feature detection. 
